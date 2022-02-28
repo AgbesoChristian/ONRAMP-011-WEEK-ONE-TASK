@@ -1,0 +1,89 @@
+body{background-image: url("./starter-code/images/img.png");
+    background-color: wheat;
+    background-size: cover;
+    font-size: 16px;}
+
+form{background-color: #fa5959;
+    border-radius: 40px;
+    width: 650px;
+    height: 300px;
+    margin-left: 350px;
+    margin-right: 370px;
+    text-align: left;
+    padding-top: 20px;}
+
+button{text-align: center;
+    border-radius: 10px;
+    border-color: #ffffff;
+    border-style: solid;
+    color: #ffffff;
+    width: 135px;
+    height: 40px;
+    font-family:"Courier prime";
+    font-size: 16px;
+    font-weight: 500px;
+    margin-left: 235px;
+    background-color: #fa5959;}
+
+    .email-alert-housing{
+        text-align: center;
+        color: #ff0000;
+        font-family:"Courier prime";
+        font-size: 16px;
+        font-weight: 700;
+        background-color: #ffffff;}
+        
+        .name-housing{
+        margin: 15px 30px 15px 40px;
+        font-family:"Courier prime";
+        color: #ffffff;
+        font-size: 16px;
+        font-weight: 500;}
+    
+        .email-housing{
+            margin: 15px 30px 15px 40px;
+            color: #ffffff;
+            font-family:"Courier prime";
+            font-size: 16px;
+            font-weight: 500;}
+        
+        .activation-housing{
+            margin: 15px 30px -15px 40px;
+            color: #ffffff;
+            font-family:"Courier prime";
+            font-size: 16px;
+            font-weight: 500;}
+
+        .nameinput-format{
+            margin-left: 100px;
+            width: 350px;
+            height: 25px;}
+
+        .emailinput-format{
+            border-color: #ff0000;
+            border-style: solid;
+            margin-left: 99px;
+            width: 351px;
+            height: 25px;}
+            
+        .activationinput-format{
+            margin-left: 61px;
+            width: 350px;
+            height: 25px;}
+
+        .privacy-policy{
+            margin-left: 190px;
+            color: #ffffff;
+            font-family:"Courier prime";
+            font-size: 16px;
+            font-weight: 500;}
+
+        .checkbox-format{
+            width: 15px;
+            height: 15px;
+            margin-left: 0px;
+            margin-bottom: 0px;
+            margin-top: 30px;}
+
+
+
