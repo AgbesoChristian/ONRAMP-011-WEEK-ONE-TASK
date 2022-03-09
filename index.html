@@ -9,39 +9,40 @@
     <link href="https://fonts.google.com/specimen/Courier+Prime" rel="stylesheet" type="text/css">
 </head>
 <body>
-    <form action="#">
+    <form id="container2">
         <div class="name-housing">
             <label>
-                Your Name * <input class="nameinput-format" type="text" required>
+                Your Name * <input id="name" class="nameinput-format" type="text">
              </label>   
         </div>
         
          <div class="email-housing">
             <label>
-                Your Email * <input class="emailinput-format" type="text" required>
+                Your Email * <input id="email" class="emailinput-format" type="text">
              </label>
         </div>
 
         <div class="activation-housing">
             <label>
-                Activation Token * <input class="activationinput-format" type="text" required>
+                Activation Token * <input id="activation" class="activationinput-format" type="password">
              </label>
         </div>
         
         <div class="privacy-policy">
             <label>
-                You agree to the <a href="#" target="_blank"> privacy policy.</a> <input class="checkbox-format" type="checkbox" required>
+                You agree to the <a href="#" target="_blank"> privacy policy.</a> <input id="checkbox" class="checkbox-format" type="checkbox">
              </label>
         </div>
 
-        <div class="email-alert-housing">
-            <h3>EMAIL MUST BE FILLED OUT!!!</h3>
+        <div id="screen2" class="screen">
+
         </div>
         
         <div>
-            <button type="submit">Submit</button>
+            <button id="button" type="submit">Submit</button>
         </div>
          
     </form>
+    <script src="./index.js"></script>
 </body>
 </html>

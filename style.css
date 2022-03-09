@@ -23,15 +23,20 @@ button{text-align: center;
     font-size: 16px;
     font-weight: 500px;
     margin-left: 235px;
+    margin-top: 20px;
     background-color: #fa5959;}
 
-    .email-alert-housing{
+    .screen{
+        margin-left: 180px;
+        margin-top: 10px;
+        background-color: white;
+        height: 35px;
+        width:320px;
+        color: red;
         text-align: center;
-        color: #ff0000;
-        font-family:"Courier prime";
-        font-size: 16px;
-        font-weight: 700;
-        background-color: #ffffff;}
+        font-family: "Courier prime";
+        font-size: 17px;
+        padding-top: 14px;}
         
         .name-housing{
         margin: 15px 30px 15px 40px;
